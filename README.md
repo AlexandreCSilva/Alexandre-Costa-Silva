@@ -7,9 +7,11 @@
 
 <h1 align="left">About me:</h1>
 
+<div align="center">
+<h3 style="width:500px;fontsize:200px"> I live in the interior of São Paulo-BR, and since i started my mathematics college i fell in love with programming. 
+I took a coding bootcamp with driven and then became a Full Stack developer!</h3>
+</div>
 
-<p align="center"> I live in the interior of São Paulo-BR, and since i started my mathematics college i fell in love with programming. 
-I took a coding bootcamp with driven and then became a Full Stack developer!</p>
 
 <br>
 <div align="center">
