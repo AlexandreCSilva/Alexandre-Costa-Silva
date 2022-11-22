@@ -1,4 +1,4 @@
-<h3>Hello everybody      <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="24" /> </h3>
+<h3>Hello everybody <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="24" /> </h3>
 
 <div align="center">
   <h1>Alexandre Costa Silva</h1>
