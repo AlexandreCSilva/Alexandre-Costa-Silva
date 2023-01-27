@@ -1,15 +1,14 @@
-<h3>Hello everybody <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="24" /> </h3>
+<h3>Olá <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="24" /> </h3>
 
 <div align="center">
   <h1>Alexandre Costa Silva</h1>
-  <h3>Software Engineer</h3>
+  <h3>Desenvolvedor Full Stack</h3>
 </div>
 
-<h1 align="left">About me:</h1>
+<h1 align="left">Sobre mim:</h1>
 
 <div align="center" style="width: 70%; margin-left:15%;">
-  <p > I live in the interior of São Paulo-BR, and since I started my mathematics college I fell in love with programming. 
-  I took a coding bootcamp with driven and then became a Full Stack developer!</p>
+  <p > Eu nasci e vivi minha vida toda no interior de São Paulo, e desde que eu entrei na USP conheci a programação, e foi amor a primeira vista. De lá pra cá tive a oportunidade de realizar um curso de desenvolvimento técnico pela Driven Education, onde aprendi diversas tecnologias e me tornei um desenvolvedor Full Stack</p>
 </div>
 
 <br>
@@ -18,7 +17,7 @@
 </div>
 
 <br>
-<h1 align="left">Technologies:</h1>
+<h1 align="left">Technologias:</h1>
 
 
 <div align="left">
