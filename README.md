@@ -8,7 +8,7 @@
 <h1 align="left">Sobre mim:</h1>
 
 <div align="center" style="width: 70%; margin-left:15%;">
-  <p > Eu nasci e vivi a minha vida toda no interior de São paulo, me tornei estudante da USP e lá descobri a programação e me apaixonei por ela desde então. De lá pra cá eu fiz um curso intensivo de formação tecnica pela Driven Education, me tornando um Desenvolvedor Full Stack!</p>
+  <p > Eu nasci e vivi a minha vida toda no interior de São Paulo, me tornei estudante da USP e lá descobri a programação e me apaixonei por ela desde então. De lá para cá eu fiz um curso intensivo de formação técnica pela Driven Education, me tornando um Desenvolvedor Full Stack!</p>
 </div>
 
 <br>
