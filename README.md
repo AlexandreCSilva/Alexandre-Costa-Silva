@@ -12,11 +12,6 @@
 </div>
 
 <br>
-<div align="center">
-  <img style="width:500px" src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&layout=compact&langs_count=4&theme=synthwave&username=alexandrecsilva" height="200" alt="languages graph"  />
-</div>
-
-<br>
 <h1 align="left">Tecnologias:</h1>
 
 <div align="left">
@@ -35,9 +30,13 @@
 </div>
 <br>
 
-<h1 align="left">Contacts:</h1>
+<h1 align="left">Contatos:</h1>
 
 
-<a href="https://www.linkedin.com/in/alexandrecsilva6829/" target="_blank">
+<a href="https://www.linkedin.com/in/alexandrecsdev/" target="_blank">
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="32" alt="linkedin logo"  />
-  </a>
+</a>
+<a href = "mailto:alexandrecsdev@gmail.com">
+  <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
+</a>
+
