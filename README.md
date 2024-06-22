@@ -30,7 +30,6 @@
   <img height="32" width="40" src="https://cdn.simpleicons.org/jest/white" />
   <img height="32" width="40" src="https://cdn.simpleicons.org/docker/white" />
   <img height="32" width="40" src="https://cdn.simpleicons.org/git/white" />
-  <img height="32" width="40" src="https://cdn.simpleicons.org/amazonaws/white" />
   <img height="32" width="40" src="https://cdn.simpleicons.org/unity/white" />
   <img height="32" width="40" src="https://cdn.simpleicons.org/godotengine/white" />
 </div>
