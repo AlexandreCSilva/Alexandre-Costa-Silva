@@ -1,4 +1,4 @@
-<h3><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif"/> Olá </h3>
+<h3><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="32" /> Olá </h3>
 
 <div align="left">
   <h1>Alexandre Costa Silva</h1>
@@ -35,7 +35,6 @@
   <img height="32" width="40" src="https://cdn.simpleicons.org/c/white" />
   <img height="32" width="40" src="https://cdn.simpleicons.org/r/white" />
   <img height="32" width="40" src="https://cdn.simpleicons.org/php/white" />
-  <img height="32" width="40" src="https://cdn.simpleicons.org/c#/white" />
   <img height="32" width="40" src="https://cdn.simpleicons.org/dotnet/white" />
   <img height="32" width="40" src="https://cdn.simpleicons.org/tailwindcss/white" />
   <img height="32" width="40" src="https://cdn.simpleicons.org/jest/white" />
