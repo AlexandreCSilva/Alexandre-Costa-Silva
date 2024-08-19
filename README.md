@@ -35,11 +35,17 @@
   <img height="32" width="40" src="https://cdn.simpleicons.org/c/white" />
   <img height="32" width="40" src="https://cdn.simpleicons.org/r/white" />
   <img height="32" width="40" src="https://cdn.simpleicons.org/php/white" />
+  <img height="32" width="40" src="https://cdn.simpleicons.org/java/white" />
   <img height="32" width="40" src="https://cdn.simpleicons.org/dotnet/white" />
+  <img height="32" width="40" src="https://cdn.simpleicons.org/nextjs/white" />
+  <img height="32" width="40" src="https://cdn.simpleicons.org/nestjs/white" />
+  <img height="32" width="40" src="https://cdn.simpleicons.org/django/white" />
   <img height="32" width="40" src="https://cdn.simpleicons.org/tailwindcss/white" />
   <img height="32" width="40" src="https://cdn.simpleicons.org/jest/white" />
+  <img height="32" width="40" src="https://cdn.simpleicons.org/cypress/white" />
   <img height="32" width="40" src="https://cdn.simpleicons.org/docker/white" />
   <img height="32" width="40" src="https://cdn.simpleicons.org/amazonwebservices/white" />
+  <img height="32" width="40" src="https://cdn.simpleicons.org/apachekafka/white" />
 </div>
 
 <br>
