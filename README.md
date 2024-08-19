@@ -1,5 +1,5 @@
-<div align="right">
-  <div style="width: 100%;"><h3><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="24" /> Olá</h3> <h1>Alexandre Costa Silva</h1></div>
+<div align="left">
+  <div style="width: 100%; display: flex;"><h3><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="24" /> Olá</h3> <h1>Alexandre Costa Silva</h1></div>
   <h3>Desenvolvedor Full Stack</h3>
 </div>
 
