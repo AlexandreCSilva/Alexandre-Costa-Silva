@@ -1,18 +1,16 @@
-<h3>Olá <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="24" /> </h3>
-
-<div align="center">
-  <h1>Alexandre Costa Silva</h1>
+<div align="right">
+  <div style="width: 100%;"><h3><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="24" /> Olá</h3> <h1>Alexandre Costa Silva</h1></div>
   <h3>Desenvolvedor Full Stack</h3>
 </div>
 
 <h1 align="left">Sobre mim:</h1>
 
 <div align="center" style="width: 70%; margin-left:15%;">
-  <p > Eu nasci e vivi a minha vida toda no interior de São Paulo, me tornei estudante da USP e lá descobri a programação e me apaixonei por ela desde então. De lá para cá eu fiz um curso intensivo de formação técnica pela Driven Education, me tornando um Desenvolvedor Full Stack!</p>
+  <p> Eu nasci e vivi a minha vida toda no interior de São Paulo, me tornei estudante da USP e lá descobri a programação e me apaixonei por ela desde então. De lá para cá eu já atuei em diversos projetos como Desenvolvedor Full Stack.</p>
 </div>
 
 <br>
-<h1 align="left">Tecnologias:</h1>
+<h1 align="left">Tecnologias que mais domino:</h1>
 
 <div align="left" style="display: flex">
   <img height="32" width="40" src="https://cdn.simpleicons.org/html5/white" />
